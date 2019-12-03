@@ -46,8 +46,8 @@ To ptogram your microcontroler in the proteus , just double click on it and choo
 
 ## **Files**
 
-- <a href="https://github.com/MaryamSaeedmehr/7-Segment-Display-Interfacing/blob/master/BlinkingLED.asm">`/7-Segment-Display-Interfacing.asm`</a> : This is the main assembly File
-- <a href="https://github.com/MaryamSaeedmehr/7-Segment-Display-Interfacing/blob/master/BlinkingLED.pdsprj">`/7-Segment-Display-Interfacing.pdsprj`</a> : This is emulated circuit in the proteus
+- <a href="https://github.com/MaryamSaeedmehr/7-Segment-Display-Interfacing/blob/master/7-Segment-Display-Interfacing.asm">`/7-Segment-Display-Interfacing.asm`</a> : This is the main assembly File
+- <a href="https://github.com/MaryamSaeedmehr/7-Segment-Display-Interfacing/blob/master/7-Segment-Display-Interfacing.pdsprj">`/7-Segment-Display-Interfacing.pdsprj`</a> : This is emulated circuit in the proteus
 - <a href="https://github.com/MaryamSaeedmehr/7-Segment-Display-Interfacing/blob/master/LICENSE">`/LICENSE`</a> : The license of this project
 
 
